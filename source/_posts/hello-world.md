@@ -36,3 +36,10 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+
+### Reference
+
+- [使用 Hexo+GitHub 搭建个人免费博客教程](https://zhuanlan.zhihu.com/p/60578464)
+
+- [yinyonpoet的博客](https://yinyoupoet.github.io/2019/09/03/hexo%E5%8D%9A%E5%AE%A2%E4%B8%AD%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/)
+

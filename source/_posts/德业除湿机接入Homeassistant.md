@@ -31,3 +31,7 @@ Authorization字段使用上一步中得到的token，注意前面要加"JWT "�
 
 ![homeassistant-5](homeassistant-5.jpg)
 
+# Reference
+
+- [德业除湿机接入HomeAssistant](https://xiking.win/2020/11/12/3-deye-dehumidifer-add-to-homeassistant/)
+
