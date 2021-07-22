@@ -3,13 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Aliu Family
+title: "Penn's Blog"
 subtitle: ''
-description: Penn & Becci
-keywords:
-author: Penn
+description: "Talk is cheap, show me your love"
+keywords: ""
+author: "Penn"
 language: en
 timezone: ''
+email: 404162409@qq.com
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'

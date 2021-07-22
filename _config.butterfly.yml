@@ -1,0 +1,198 @@
+error_404:
+  enable: true
+  subtitle: "Page not found"
+  background:
+
+menu:
+  Home: / || fas fa-home
+  Archives: /archives/ || fas fa-archive
+  Tag: /tags/ || fas fa-tags
+  Categories: /categories/ || fas fa-folder-open
+#   List||fas fa-list:
+#     Music: /music/ || fas fa-music
+#     Movie: /movies/ || fas fa-video
+  Link: /link/ || fas fa-link
+#   About: /about/ || fas fa-heart
+
+highlight_theme: light
+highlight_copy: true
+highlight_shrink: false
+highlight_height_limit: false # unit: px
+
+index_post_content:
+  method: 2 # 1:description 2:both 3:auto_excerpt 4:false
+  length: 200
+
+# disable_top_img: true
+index_img: false
+default_top_img: 'linear-gradient(20deg, #0062be, #925696, #cc426e, #fb0347)'
+archive_img: images/math.jpg
+tag_img: images/paper.jpg
+category_img: images/cat.jpg
+link_img: images/sky.jpg
+
+cover:
+  index_enable: true
+  aside_enable: true
+  archives_enable: true
+  position: left # left, right, both
+  default_cover:
+    - images/tenor.gif
+
+post_meta:
+  page:
+    date_type: both # created/updated/both
+    date_format: date # date/relative
+    categories: true
+    tags: true
+    label: true
+  post:
+    date_type: both # created/updated/both
+    date_format: date # date/relative
+    categories: true
+    tags: true
+    label: true
+
+post_copyright:
+  enable: true
+  decode: false
+  license: Becci's law
+  license_url: xxx
+
+toc:
+  enable: true
+  number: true
+  style_simple: false
+
+related_post:
+  enable: true
+  limit: 3
+  date_type: created # created/updated
+
+post_pagination: false
+
+avatar:
+  img: /images/penn.bmp
+  effect: false
+
+copy:
+  enable: true
+  copyright:
+    enable: false
+    limit_count: 102400
+
+darkmode:
+  enable: true
+  button: true
+  autoChangeMode: false
+
+readmode: true
+change_font_size: true
+
+aside:
+  enable: true
+  hide: false
+  button: true
+  mobile: true
+  position: right
+  card_author:
+    enable: true
+    description: 'Talk is cheap, show me your LOVE'
+    button:
+      enable: true
+      icon: fab fa-github
+      text: Github
+      link: https://github.com/pys1024
+  card_announcement:
+    enable: false
+    content: penn's blog
+  card_recent_post:
+    enable: true
+    limit: 5
+    sort: date
+  card_categories:
+    enable: true
+    limit: 8
+    expand: none # none/true/false
+  card_tag:
+    enable: true
+    limit: 40
+    color: true
+  card_archives:
+    enable: true
+    type: monthly # yearly/monthly
+    format: MMM YYYY
+    order: -1 # 1: ascending -1:descending
+    limit: 8
+  card_webinfo:
+    enable: true
+    post_count: true
+    last_push_date: true
+
+busuanzi:
+  site_uv: true
+  site_pv: true
+  page_pv: true
+
+runtimeshow:
+  enable: true
+  publish_date: 7/12/2021 00:00:00
+
+#newest_comments:
+#  enable: true
+#  sort_order:
+#  limit: 20
+#  storage: 10 # unit: minute
+#  avatar: true
+
+
+comments:
+  use:
+    # Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo
+    - Valine
+  text: true
+  lazyload: true
+  count: true
+  card_post_count: false
+
+activate_power_mode:
+  enable: true
+  colorful: true
+  shake: false
+  mobile: false
+
+#canvas_ribbon:
+#enable: false
+#size: 150
+#  alpha: 0.6
+#  zIndex: -1
+#  click_to_change: false
+#  mobile: false
+
+# canvas_nest:
+#   enable: true
+#   color: '0,0,255'
+#   opacity: 0.7
+#   zIndex: -1
+#   count: 99
+#   mobile: false
+
+click_heart:
+  enable: true
+  mobile: false
+
+beautify:
+  enable: true
+  field: site
+  title-prefix-icon: '\f0c1'
+  title-prefix-icon-color: "#F47466"
+
+preloader: false
+
+wordcount:
+  enable: true
+  post_wordcount: true
+  min2read: true
+  total_wordcount: true
+
+fancybox: true

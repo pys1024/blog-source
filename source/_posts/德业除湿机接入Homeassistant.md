@@ -1,8 +1,11 @@
 ---
 title: 德业除湿机接入Homeassistant
 date: 2021-07-12 09:10:00
-tags: Homeassistant
-typora-root-url: 德业除湿机接入Homeassistant
+copyright_author: penn
+tags: homeassistant
+categories: smart home
+keywords: homeassistant, deye
+description: deye homeassistant
 ---
 
 

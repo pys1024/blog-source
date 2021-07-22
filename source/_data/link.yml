@@ -1,0 +1,7 @@
+- class_name: misc links
+  class_desc: I don't know
+  link_list:
+    - name: butterfly
+      link: https://butterfly.js.org
+      avatar: https://butterfly.js.org
+      descr: butterfly web
