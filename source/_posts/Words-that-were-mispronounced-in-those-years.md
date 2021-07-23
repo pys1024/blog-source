@@ -36,3 +36,4 @@ description:
 - bottle
 - attach
 - enable
+- alias
