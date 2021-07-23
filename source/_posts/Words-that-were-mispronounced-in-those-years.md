@@ -37,3 +37,5 @@ description:
 - attach
 - enable
 - alias
+- repository
+- history
