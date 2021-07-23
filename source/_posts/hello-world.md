@@ -43,6 +43,12 @@ $ hexo deploy
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 
+### Generate static files and deploy to remote sites
+``` bash
+$ hexo g -d
+```
+
+
 ### Reference
 
 - [使用 Hexo+GitHub 搭建个人免费博客教程](https://zhuanlan.zhihu.com/p/60578464)
