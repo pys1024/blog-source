@@ -150,10 +150,29 @@ comments:
   use:
     # Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo
     - Valine
-  text: true
+  text: false
   lazyload: true
   count: true
   card_post_count: false
+
+valine:
+  appId: RSA8h1Bzh2IseBhQCVXkOq58-gzGzoHsz
+  appKey: XsqLtmg7sucH7pBWdk7YKWQ0
+  pageSize: 10
+#  avatar: wavatar
+  avatar: robohash
+  lang: en
+  placeholder: Please enter your comment
+  guest_info: nick, mail, link
+  recordIP: false
+  serverURLs:
+  bg: /img/comment_bg.png
+  emojiCDN:
+  enableQQ: false
+  requiredFields: nick, mail
+  visitor: false
+  option:
+
 
 activate_power_mode:
   enable: true
