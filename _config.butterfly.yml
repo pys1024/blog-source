@@ -163,13 +163,13 @@ valine:
   avatar: robohash
   lang: en
   placeholder: Please enter your comment
-  guest_info: nick, mail, link
+  guest_info: nick,mail,link
   recordIP: false
   serverURLs:
   bg: /img/comment_bg.png
   emojiCDN:
   enableQQ: false
-  requiredFields: nick, mail
+  requiredFields: nick
   visitor: false
   option:
 
