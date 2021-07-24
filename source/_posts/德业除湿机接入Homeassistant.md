@@ -6,6 +6,7 @@ tags: homeassistant
 categories: smart home
 keywords: homeassistant, deye
 description: deye homeassistant
+typora-root-url: 德业除湿机接入Homeassistant
 ---
 
 
