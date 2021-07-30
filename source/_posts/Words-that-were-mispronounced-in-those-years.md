@@ -39,3 +39,4 @@ description:
 - alias
 - repository
 - history
+- connect
