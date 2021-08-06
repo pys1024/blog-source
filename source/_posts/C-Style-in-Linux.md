@@ -1,5 +1,5 @@
 ---
-title: C-Style-in-Linux
+title: C Style in Linux
 date: 2021-08-05 20:26:00
 copyright_author: penn
 tags: C, Linux
@@ -99,12 +99,9 @@ Linux代码缩进使用**TAB**。
        break;
    }
    ```
+## GNU C and ANSI C
 
-   
-
-   ## GNU C and ANSI C
-
-   **以下特性其实是由GCC编译带来的。**
+**以下特性其实是由GCC编译带来的。**
 
 #### 零长度和变量长度数组
 

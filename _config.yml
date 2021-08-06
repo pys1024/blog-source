@@ -106,4 +106,6 @@ theme: butterfly
 deploy:
   type: git
   repository: git@github.com:pys1024/pys1024.github.io.git
+#  repository: git@gitee.com:pys1024/pys1024.git
+#  repository: git@e.coding.net:pys1024/pys1024/pys1024.git
   branch: main
