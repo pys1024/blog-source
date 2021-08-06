@@ -28,6 +28,7 @@ description:
 - common
 - command
 - mechanism
+- mechanical
 - manufacture
 - synchronized
 - bottle

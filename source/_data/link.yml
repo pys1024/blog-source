@@ -1,7 +1,28 @@
-- class_name: misc links
-  class_desc: I don't know
+- class_name: Linux Development
+  class_desc: Links for Linux develpment
+  link_list:
+    - name: U-Boot
+      descr: for downloading u-boot
+      link: http://www.denx.de/wiki/U-Boot/
+    - name: Linux
+      descr: for downloading Linux kernel
+      link: https://www.kernel.org
+    - name: Linaro
+      descr: ARM solution
+      link: https://www.linaro.org/
+    - name: BusyBox
+      descr: for making Linux root system
+      link: https://busybox.net/
+    - name: Yocto
+      descr: for creating custom Linux-based systems
+      link: https://www.yoctoproject.org/
+    - name: Buildroot
+      descr: for generating embedded Linux systems
+      link: https://buildroot.org/
+- class_name: Misc Links
+  class_desc: Miscellaneous links
   link_list:
     - name: butterfly
       link: https://butterfly.js.org
-      avatar: https://butterfly.js.org
+#      avatar: https://butterfly.js.org
       descr: butterfly web
