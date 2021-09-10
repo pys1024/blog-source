@@ -1,8 +1,8 @@
 ---
 title: Words that were mispronounced in those years
 date: 2021-07-22 22:17:42
-copyright_author: penn
-tags: Egnlish
+copyright_author: Penn
+tags: English
 categories: English
 keywords: English
 description: 
@@ -41,4 +41,9 @@ description:
 - preface
 - iron
 - archive
+- collaborate
+- embed
+- facilitate
+- variety
+- allocate
 
